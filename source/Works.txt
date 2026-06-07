@@ -1,0 +1,71 @@
+/* Works */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Group 10 */
+
+position: absolute;
+width: 1427px;
+height: 759.56px;
+left: 103px;
+top: 110px;
+
+
+
+/* WORK */
+
+position: absolute;
+width: 1140px;
+height: 622.56px;
+left: 390px;
+top: 247px;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 1140px;
+height: 622.56px;
+left: 390px;
+top: 247px;
+
+background: url(image.png);
+
+
+/* My Works */
+
+position: absolute;
+width: 627px;
+height: 116px;
+left: 103px;
+top: 110px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+

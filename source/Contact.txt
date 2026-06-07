@@ -1,0 +1,625 @@
+/* Contact */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1689px;
+height: 923px;
+left: 115px;
+top: 90px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 234px;
+height: 63px;
+left: 844px;
+top: 804px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 234px;
+height: 63px;
+left: 844px;
+top: 804px;
+
+border: 5px solid #FFFFFF;
+border-radius: 10px;
+
+
+/* SUBMIT */
+
+position: absolute;
+width: 63px;
+height: 24px;
+left: 929px;
+top: 824px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+width: 234px;
+height: 63px;
+left: 124px;
+top: 660px;
+
+filter: drop-shadow(13px 4px 8.3px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 234px;
+height: 63px;
+left: 124px;
+top: 660px;
+
+background: #D9D9D9;
+border: 3px solid #FFFFFF;
+border-radius: 10px;
+
+
+/* DOWNLOAD CV */
+
+position: absolute;
+width: 135px;
+height: 24px;
+left: 174px;
+top: 680px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #000000;
+
+
+
+/* FOrm */
+
+position: absolute;
+width: 843px;
+height: 627px;
+left: 961px;
+top: 90px;
+
+
+
+/* Message */
+
+position: absolute;
+width: 843px;
+height: 320px;
+left: 961px;
+top: 397px;
+
+
+
+/* Your Message */
+
+position: absolute;
+width: 158px;
+height: 30px;
+left: 988px;
+top: 414px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* MessageBox */
+
+position: absolute;
+width: 843px;
+height: 320px;
+left: 961px;
+top: 397px;
+
+background: rgba(72, 72, 72, 0.6);
+border-radius: 10px;
+
+
+/* Email */
+
+position: absolute;
+width: 843px;
+height: 103px;
+left: 961px;
+top: 252px;
+
+
+
+/* Your Email */
+
+position: absolute;
+width: 119px;
+height: 30px;
+left: 988px;
+top: 274px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* EmailBox */
+
+position: absolute;
+width: 843px;
+height: 103px;
+left: 961px;
+top: 252px;
+
+background: rgba(72, 72, 72, 0.6);
+border-radius: 10px;
+
+
+/* Name */
+
+position: absolute;
+width: 843px;
+height: 103px;
+left: 961px;
+top: 90px;
+
+
+
+/* Your Name */
+
+position: absolute;
+width: 124px;
+height: 30px;
+left: 988px;
+top: 127px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* NameBox */
+
+position: absolute;
+width: 843px;
+height: 103px;
+left: 961px;
+top: 90px;
+
+background: rgba(72, 72, 72, 0.6);
+border-radius: 10px;
+
+
+/* Footer */
+
+position: absolute;
+width: 164px;
+height: 24px;
+left: 878px;
+top: 989px;
+
+
+
+/* Copyright */
+
+position: absolute;
+width: 164px;
+height: 24px;
+left: 878px;
+top: 989px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Contact Me */
+
+position: absolute;
+width: 627px;
+height: 116px;
+left: 119px;
+top: 90px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* fathansyahbana15@gmail.com */
+
+position: absolute;
+width: 500px;
+height: 29px;
+left: 193px;
+top: 257px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* +62 896-7320-3322 */
+
+position: absolute;
+width: 500px;
+height: 29px;
+left: 189px;
+top: 341px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* Lampung, indonesia */
+
+position: absolute;
+width: 500px;
+height: 29px;
+left: 185px;
+top: 435px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* Telephone */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 115px;
+top: 335px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #5D3C18;
+
+
+/* Envelope */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 119px;
+top: 252px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #766B65;
+
+
+/* Pin */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 115px;
+top: 430px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 0%;
+bottom: 0%;
+
+background: #1E2824;
+
+
+/* Social Media */
+
+position: absolute;
+width: 285px;
+height: 48px;
+left: 121px;
+top: 538px;
+
+
+
+/* Social Icons */
+
+position: absolute;
+width: 45px;
+height: 48px;
+left: 361px;
+top: 538px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.56%;
+right: 1.56%;
+top: 1.56%;
+bottom: 1.56%;
+
+background: #EA4C89;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #C32361;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 281px;
+top: 538px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.08%;
+top: 0%;
+bottom: -0.08%;
+
+background: #E60019;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 201px;
+top: 538px;
+
+
+
+/* c */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.37%;
+
+background: #0866FF;
+
+
+/* d */
+
+position: absolute;
+left: 27.61%;
+right: 26.8%;
+top: 18.51%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 121px;
+top: 538px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 44.1px;
+height: 45px;
+left: calc(50% - 44.1px/2 - 0.45px);
+top: calc(50% - 45px/2 + 0px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 2%;
+top: 40.91%;
+bottom: 12.09%;
+
+background: #4285F4;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.91%;
+top: 59.52%;
+bottom: 0%;
+
+background: #34A853;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 27.59%;
+bottom: 27.59%;
+
+background: #FBBC05;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.55%;
+top: 0%;
+bottom: 59.5%;
+
+background: #EA4335;

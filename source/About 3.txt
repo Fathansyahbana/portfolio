@@ -1,0 +1,177 @@
+/* About 3 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Group 8 */
+
+position: absolute;
+width: 1696px;
+height: 1124px;
+left: 133px;
+top: 98px;
+
+
+
+/* Copilot_20260605_225752 1 */
+
+position: absolute;
+width: 749px;
+height: 1124px;
+left: 133px;
+top: 98px;
+
+background: url(Copilot_20260605_225752.png);
+
+
+/* About Me */
+
+position: absolute;
+width: 627px;
+height: 116px;
+left: 882px;
+top: 153px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* I am an undergraduate student majoring in Informatics Engineering with a strong passion for web development and technology. I am known for being diligent, disciplined, and highly committed to continuous learning. I enjoy exploring new technologies, improving my technical skills, and applying my knowledge to create effective and user-friendly web applications. With a strong willingness to learn and adapt, I am always eager to take on new challenges and expand my expertise in the field of information technology. */
+
+position: absolute;
+width: 947px;
+height: 144px;
+left: 882px;
+top: 290px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Skills Experience Education */
+
+position: absolute;
+width: 614px;
+height: 52px;
+left: 889px;
+top: 461px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 194px;
+height: 0px;
+left: 1309px;
+top: 513px;
+
+border: 5px solid #1E2824;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 834px;
+height: 260px;
+left: 889px;
+top: 540px;
+
+
+
+/* Bachelor of Informatics Engineering (Currently Pursuing) Universitas Lampung */
+
+position: absolute;
+width: 834px;
+height: 72px;
+left: 889px;
+top: 540px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: 0.08em;
+
+color: #766B65;
+
+
+
+/* Senior High School (2021 - 2024) SMA Negeri 1 Kotaagung */
+
+position: absolute;
+width: 614px;
+height: 72px;
+left: 889px;
+top: 634px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: 0.08em;
+
+color: #766B65;
+
+
+
+/* Junior High School (2018 - 2021) SMP Negeri 1 Kotaagung */
+
+position: absolute;
+width: 614px;
+height: 72px;
+left: 889px;
+top: 728px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: 0.08em;
+
+color: #766B65;
+

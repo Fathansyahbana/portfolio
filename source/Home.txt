@@ -1,0 +1,258 @@
+/* Home */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Group 7 */
+
+position: absolute;
+width: 1799px;
+height: 1019px;
+left: 62px;
+top: 65px;
+
+
+
+/* Palette */
+
+position: absolute;
+width: 225px;
+height: 75px;
+left: 1776px;
+top: 461px;
+
+transform: rotate(-90deg);
+
+
+/* #1e2824 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1776px;
+top: 611px;
+
+background: #1E2824;
+transform: rotate(-90deg);
+
+
+/* #5d3c18 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1776px;
+top: 536px;
+
+background: #5D3C18;
+transform: rotate(-90deg);
+
+
+/* #766b65 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1776px;
+top: 461px;
+
+background: #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Logo */
+
+position: absolute;
+width: 512px;
+height: 60px;
+left: 62px;
+top: 65px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Navbar */
+
+position: absolute;
+width: 689px;
+height: 60px;
+left: 1172px;
+top: 65px;
+
+
+
+/* About Services Works Contact */
+
+position: absolute;
+width: 679px;
+height: 34px;
+left: 1182px;
+top: 65px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 127px;
+height: 0px;
+left: 1172px;
+top: 125px;
+
+border: 3px solid #766B65;
+
+
+/* Hero Text */
+
+position: absolute;
+width: 753px;
+height: 362px;
+left: 138px;
+top: 333px;
+
+
+
+/* Hi, I am Fathan Syahbana */
+
+position: absolute;
+width: 464px;
+height: 52px;
+left: 147px;
+top: 333px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 275;
+font-size: 32px;
+line-height: 48px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* DEVELOPER */
+
+position: absolute;
+width: 753px;
+height: 310px;
+left: 138px;
+top: 385px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 128px;
+line-height: 155px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+opacity: 0.6;
+border: 1px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Man */
+
+position: absolute;
+width: 678px;
+height: 946px;
+left: 995px;
+top: 138px;
+
+background: url(Copilot_20260605_225539.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 30px;
+
+
+/* FULL STACK */
+
+position: absolute;
+width: 772px;
+height: 310px;
+left: 138px;
+top: 385px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 128px;
+line-height: 155px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Resume */
+
+position: absolute;
+width: 284px;
+height: 57px;
+left: 145px;
+top: 695px;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 140px;
+height: 0px;
+left: 147px;
+top: 752px;
+
+border: 3px solid #766B65;
+
+
+/* Resume */
+
+position: absolute;
+width: 284px;
+height: 52px;
+left: 145px;
+top: 695px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+

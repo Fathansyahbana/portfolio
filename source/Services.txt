@@ -1,0 +1,338 @@
+/* Services */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+border-radius: 30px;
+
+
+/* Group 9 */
+
+position: absolute;
+width: 1710px;
+height: 607px;
+left: 105px;
+top: 159px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 500px;
+height: 400px;
+left: 105px;
+top: 366px;
+
+background: #766B65;
+box-shadow: 17px 4px 6.8px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 500px;
+height: 400px;
+left: 710px;
+top: 366px;
+
+background: #5D3C18;
+box-shadow: 17px 4px 6.8px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 500px;
+height: 400px;
+left: 1315px;
+top: 366px;
+
+background: #1E2824;
+box-shadow: 17px 4px 6.8px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* App */
+
+position: absolute;
+width: 405px;
+height: 277px;
+left: 1373px;
+top: 426px;
+
+
+
+/* Script Writing */
+
+position: absolute;
+width: 405px;
+height: 52px;
+left: 1373px;
+top: 514px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* AppIndicator */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1373px;
+top: 426px;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 46.88px;
+height: 46.88px;
+left: 3.12px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 0%;
+top: 0%;
+bottom: 62.5%;
+
+background: #FFFFFF;
+
+
+/* Lorem */
+
+position: absolute;
+width: 281px;
+height: 120px;
+left: 1373px;
+top: 583px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* UI UX */
+
+position: absolute;
+width: 350px;
+height: 253px;
+left: 768px;
+top: 426px;
+
+
+
+/* UI/UX Designing */
+
+position: absolute;
+width: 350px;
+height: 52px;
+left: 768px;
+top: 514px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* UiRadiosGrid */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 768px;
+top: 426px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Lorem */
+
+position: absolute;
+width: 281px;
+height: 96px;
+left: 768px;
+top: 583px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* WEB */
+
+position: absolute;
+width: 381px;
+height: 277px;
+left: 150px;
+top: 426px;
+
+
+
+/* Web Development */
+
+position: absolute;
+width: 381px;
+height: 52px;
+left: 150px;
+top: 514px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* CodeSquare */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 150px;
+top: 426px;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.74%;
+right: 18.74%;
+top: 28.12%;
+bottom: 28.12%;
+
+background: #FFFFFF;
+
+
+/* Lorem */
+
+position: absolute;
+width: 281px;
+height: 120px;
+left: 159px;
+top: 583px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+
+
+/* My Services */
+
+position: absolute;
+width: 627px;
+height: 116px;
+left: 105px;
+top: 159px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
