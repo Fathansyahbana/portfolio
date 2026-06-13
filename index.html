@@ -187,15 +187,17 @@
         <a href="images/cv.pdf" download class="download-btn"> Download CV </a>
       </div>
 
-      <div class="contact-form">
-        <input type="text" placeholder="Your Name" />
+      <form class="contact-form" action="https://formsubmit.co/fathansyahbana15@gmail.com" method="POST">
+        <input type="hidden" name="_captcha" value="false" />
 
-        <input type="email" placeholder="Your Email" />
+        <input type="text" name="name" placeholder="Your Name" required />
 
-        <textarea placeholder="Your Message"></textarea>
+        <input type="email" name="email" placeholder="Your Email" required />
 
-        <button>Submit</button>
-      </div>
+        <textarea name="message" placeholder="Your Message" required></textarea>
+
+        <button type="submit">Submit</button>
+      </form>
     </section>
 
     <script src="js/script.js"></script>
